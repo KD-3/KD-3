@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Kaustubh Dixit, sophomore student at IIT Jodhpur. Over the years I've tried my hands on many things - Deep Learning, Web Development, UI Designing, Robotics, Photography, Blogging and even keyboard and guitar.
+I love experimenting and working with new technology. That's the thing that keeps me kicking in life
 <!--
 **KD-3/KD-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing Autonomous Vehicles
+- 🌱 I’m currently learning implementations of Deep Learning and Robotics to day to day life scenarios
+- 👯 I’m looking to collaborate on developing practical implementations using AI and Robotics
+- 💬 Ask me about Django development, Robotics Applications and AI
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/kaustubh-dixit-8038bb171/) or over a cup of coffee!
