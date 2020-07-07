@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on developing Autonomous Vehicles
+- 🔭 I’m currently working as an Autonomous Robotics and AI intern.
 - 🌱 I’m currently learning implementations of Deep Learning and Robotics to day to day life scenarios
 - 👯 I’m looking to collaborate on developing practical implementations using AI and Robotics
 - 💬 Ask me about Django development, Robotics Applications and AI
