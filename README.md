@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Kaustubh Dixit, sophomore student at IIT Jodhpur. Over the years I've tried my hands on many things - Deep Learning, Web Development, UI Designing, Robotics, Photography, Blogging and even keyboard and guitar.
+I am Kaustubh Dixit, pre-final year student at IIT Jodhpur. Over the years I've tried my hands on many things - Deep Learning, Web Development, UI Designing, Robotics, Photography, Blogging and even keyboard and guitar.
 I love experimenting and working with new technology. That's the thing that keeps me kicking in life.
 I write about AI and robotics on [medium](https://medium.com/@kaustubh_dixit). Have a read :)
 <!--
