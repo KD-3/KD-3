@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Kaustubh Dixit, pre-final year student at IIT Jodhpur. Over the years I've tried my hands on many things - Deep Learning, Web Development, UI Designing, Robotics, Photography, Blogging and even keyboard and guitar.
-I love experimenting and working with new technology. That's the thing that keeps me kicking in life.
-I write about AI and robotics on [medium](https://medium.com/@kaustubh_dixit). Have a read :)
+I am Kaustubh, I do product stuff at Pine Labs. I have a thing for robotics and AI also, when not making PRDs and roadmaps.
 <!--
 **KD-3/KD-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as an Autonomous Robotics and AI intern.
-- 🌱 I’m currently learning implementations of Deep Learning and Robotics to day to day life scenarios
-- 👯 I’m looking to collaborate on developing practical implementations using AI and Robotics
-- 💬 Ask me about Django development, Robotics Applications and AI
+- 💬 Ask me about Product Management, Fintech Industry, Django development, Robotics and AI
+- 🌱 I write about AI and robotics on [medium](https://medium.com/@kaustubh_dixit).
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/kaustubh-dixit-8038bb171/) or over a cup of coffee!
